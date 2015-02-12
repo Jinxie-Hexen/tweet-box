@@ -1,0 +1,24 @@
+.container {
+	width: 600px;	
+	margin-top: 20px;
+}
+.centered {
+	text-align: center;	
+}
+.content {
+	height: auto;
+	border: 1px solid #D0D0D0;
+	padding: 20px;
+	border-radius: 5px;
+	background-color: #FBFBFB;
+	margin-bottom: 20px;
+}
+.message {
+	height: auto;
+	border: 1px solid #DBDBDB;
+	padding: 3px;
+	border-radius: 5px;
+	background-color: #FFFFFF;	
+	display: none;
+	margin-bottom: 10px;
+}
